@@ -1,2 +1,2 @@
 print("python")
-@rint("hello")
+print("hello")
